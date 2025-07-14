@@ -17,6 +17,7 @@
 *.ipr
 mysql_data
 .output.txt
+postgres_data
 
 ### NetBeans ###
 /nbproject/private/
