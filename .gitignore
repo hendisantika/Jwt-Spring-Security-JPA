@@ -16,6 +16,7 @@
 *.iml
 *.ipr
 mysql_data
+.output.txt
 
 ### NetBeans ###
 /nbproject/private/
